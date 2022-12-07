@@ -1,6 +1,4 @@
-
 Quoc Thinh Vo
-
 
 How To Compile & Run
 ====================
